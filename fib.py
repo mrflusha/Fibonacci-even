@@ -10,6 +10,5 @@ def fib(x):
 		fib_sum = fib_1 + fib_2 
 		fib_1 = fib_2
 		fib_2 = fib_sum
-		#print(fib_even)
 
 	return fib_even
